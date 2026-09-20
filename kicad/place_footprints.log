@@ -1,0 +1,19 @@
+09-19 21:38:30 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 674:Plugin executed on: 'linux'
+09-19 21:38:30 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 675:Plugin executed with python version: '3.14.6 (main, Jun 15 2026, 11:36:54) [GCC 16.1.1 20260430]'
+09-19 21:38:30 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 676:KiCad build version: 10.0.4
+09-19 21:38:30 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 677:Plugin version: 5.0.0
+
+09-19 21:38:30 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 678:Frame repr: <wx._core.Frame object at 0x7fd90f008d40>
+09-19 21:38:30 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+09-19 21:38:30 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint H1 on root level
+09-19 21:38:30 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint H3 on root level
+09-19 21:38:30 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint H4 on root level
+09-19 21:38:30 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint H2 on root level
+09-19 21:38:30 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 717:Reference footprint='D1'
+09-19 21:38:33 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 858:Reference designator is: D
+09-19 21:38:33 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 859:Reference number is: 1
+09-19 21:38:33 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 891:Sorted and filtered list:
+['D1', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8']
+09-19 21:38:33 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 376:wx.Colour(21, 19, 12, 255)
+09-19 21:38:36 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 507:''
+09-19 21:38:38 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 507:''
