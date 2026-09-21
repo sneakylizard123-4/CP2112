@@ -72,12 +72,6 @@ Power comes from the USB-C port
 | 1 | U2 | CP2112 | QFN-24 4x4 mm | |
 | 1 | U3 | TLV75718PDBV | SOT-23-5 | |
 
-| Item | Cost |
-|------|------|
-| PCB (qty 5) | $XX.XX |
-| Components (total) | $XX.XX |
-| **Grand total** | **$XXX.XX** |
-
 Full BOM at BOM.csv
 
 ## Production
