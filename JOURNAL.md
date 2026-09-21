@@ -41,7 +41,7 @@ created_at: 2026-09-19
 
 ## Why:
 
-- <Why these final layout decisions>
+- hack club forge requirements
 
 ## Screenshots:
 
