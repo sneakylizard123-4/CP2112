@@ -1,0 +1,18 @@
+Designator,Value,Footprint,Qty Needed,MOQ,Qty Ordered,LCSC Part #,Supplier Link,Unit Price @ MOQ (USD),Line Total (USD)
+R1 R2,5.1k,0805,2,100,100,C27834,https://www.lcsc.com/product-detail/C27834.html,0.006,0.60
+R3,10k,0805,1,100,100,C17414,https://www.lcsc.com/product-detail/C17414.html,0.0039,0.39
+R4 R5,4.7k,0805,2,100,100,C17673,https://www.lcsc.com/product-detail/C17673.html,0.0051,0.51
+R6-R13,1k,0805,8,100,100,C17513,https://www.lcsc.com/product-detail/C17513.html,0.0041,0.41
+C1,4.7uF,0805,1,20,20,C1779,https://www.lcsc.com/product-detail/C1779.html,0.0348,0.70
+C2,1uF,0805,1,10,10,C28323,https://www.lcsc.com/product-detail/C28323.html,0.0403,0.40
+C3 C5 C7 C9,100nF,0805,4,20,20,C49678,https://www.lcsc.com/product-detail/C49678.html,0.0195,0.39
+C4 C6 C8 C10,10uF,0805,4,20,20,C15850,https://www.lcsc.com/product-detail/C15850.html,0.0852,1.70
+D1-D8,LED red,0805,8,50,50,C84256,https://www.lcsc.com/product-detail/C84256.html,0.0135,0.68
+J1,USB Type-C,16P USB2.0,1,5,5,C165948,https://www.lcsc.com/product-detail/C165948.html,0.1879,0.94
+J2 J4,Pin socket 1x4,THT 2.54mm,2,10,10,C2718488,https://www.lcsc.com/product-detail/C2718488.html,0.0793,0.79
+J3,Pin socket 2x5,THT 2.54mm,1,5,5,C30419,https://jlcpcb.com/partdetail/31176-2_54mm25p/C30419,0.1182,0.59
+SW1,Slide switch SPDT,THT C&K OS102011,1,1,1,C221829,https://www.lcsc.com/product-detail/C221829.html,0.662,0.66
+U1,USBLC6-2SC6,SOT-23-6,1,5,5,C7519,https://www.lcsc.com/product-detail/C7519.html,0.1782,0.89
+U2,CP2112-F03-GMR,QFN-24 4x4,1,1,1,C2678020,https://www.lcsc.com/product-detail/C2678020.html,6.2024,6.20
+U3,TLV75718PDBVR,SOT-23-5,1,5,5,C507270,https://www.lcsc.com/product-detail/C507270.html,0.3151,1.58
+TOTAL,,,,,,,,17.43
