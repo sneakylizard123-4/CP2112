@@ -38,7 +38,7 @@ USB -> CP2112 -> I2C
 - Decoupling caps placed at the CP2112 and LDO pins
 - All passives 0805 for easy hand assembly
 
-![PCB 3D / layout image](images/06-pcb-top.png)
+![PCB 3D / layout image](images/renders/pcb-top.png)
 
 ## Firmware
 
@@ -91,7 +91,7 @@ standard JLCPCB 4-layer PCB
 │   └── production/   # Gerbers, BOM + positions csv
 ├── cad/              # .step export + native CAD source
 ├── firmware/         # Firmware source code (if any)
-├── images/           # Renders, PCB screenshots, schematic SVGs
+├── images/           # renders/ + schematic/ screenshots
 └── JOURNAL.md        # Work journal
 ```
 

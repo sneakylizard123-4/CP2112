@@ -5,7 +5,7 @@ description: USB-C breakout for the CP2112, with 1.8V
 created_at: 2026-09-19
 ---
 
-# September 19: Kickoff - schematic and PCB start
+# September 19: PCB start
 
 ## What I did:
 
@@ -25,12 +25,12 @@ created_at: 2026-09-19
 
 ## Screenshots:
 
-![schematic root sheet](images/CP2112.png)
-![USB sub-sheet](images/CP2112-USB.png)
+![schematic root sheet](images/schematic/01-root.png)
+![USB sub-sheet](images/schematic/02-usb.png)
 
 **Total time spent: 4 hours**
 
-# September 20: Finishing the layout
+# September 20: Layout
 
 ## What I did:
 
@@ -45,7 +45,8 @@ created_at: 2026-09-19
 
 ## Screenshots:
 
-![PCB render, top](images/pcb-render-top.png)
-![PCB render, bottom](images/pcb-render-bottom.png)
+![PCB render, top](images/renders/pcb-top.png)
+![PCB render, bottom](images/renders/pcb-bottom.png)
+![PCB editor](images/pcb/editor.png)
 
 **Total time spent: 4 hours**
