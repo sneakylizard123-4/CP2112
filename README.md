@@ -3,7 +3,7 @@
 A small board based on the CP2112
 USB to SMBus/I2C
 
-![PCB render, top](images/renders/pcb-top.png.png) ![PCB render, bottom](images/renders/pcb-bottom.png)
+![PCB render, top](images/renders/pcb-top.png) ![PCB render, bottom](images/renders/pcb-bottom.png)
 
 ## Custom Features
 
