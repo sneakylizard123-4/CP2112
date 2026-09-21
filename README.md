@@ -1,10 +1,9 @@
-# CP2112 USB-to-UART Bridge Board
+# CP2112 USB-to-SMBus Bridge Board
 
-> <One-line subtitle: USB-C to serial breakout around the Silicon Labs CP2112 HID bridge>
+A small board based on the CP2112
+USB to SMBus/I2C
 
-<Short paragraph: what this project is and why you built it. What problem does it solve or what does it explore?>
-
-![PCB render, top](images/06-pcb-top.png) ![PCB render, bottom](images/07-pcb-bottom.png)
+![PCB render, top](images/renders/pcb-top.png.png) ![PCB render, bottom](images/renders/pcb-bottom.png)
 
 ## Custom Features
 
